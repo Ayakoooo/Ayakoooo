@@ -1,7 +1,8 @@
 Web Developer
 -------------
 
-and language learner on a journey of growth. Obsessed with self-improvement, fitness, and the thrill of Japanese street drifting. Always building, learning, and pushing limits.
+and language learner on a journey of growth. 
+Obsessed with self-improvement, fitness, and the thrill of Japanese street drifting. Always building, learning, and pushing limits.
 
 * 🧠  I'm learning Japanese and React
 * 🤝  I'm open to collaborating on all sorts of projects
