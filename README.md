@@ -1,7 +1,7 @@
 Web Developer
 -------------
 
-<p align="left"> 
+<p align="left" gap="10px"> 
   <a href="https://discord.com/users/ayakovx" target="_blank" rel="noreferrer"> 
     <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
